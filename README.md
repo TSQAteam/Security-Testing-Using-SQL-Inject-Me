@@ -13,6 +13,7 @@ For you to start with SQL Inject Me, Just go to your Mozilla Firefox browser and
    - Once you are on the said site, Click the Add to Firefox button.Once you are on the said site, Click  the Add to Firefox button.
    - Once the installation was done, message at the top left part of the page will appear to Restart the browser. Click the Restart Now  button.
    
+   ![Screenshot of repository size on GitHub](https://github.com/TSQAteam/Security-Testing-SQL-Inject-Me/blob/master/images/1_2.png)
    
    
    Click  the Tools > SQL Inject Me > Open
