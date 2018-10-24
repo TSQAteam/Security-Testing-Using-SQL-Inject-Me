@@ -52,7 +52,7 @@ For you to start with SQL Inject Me, Just go to your Mozilla Firefox browser and
    # Demo Video:
    
    Check here for demo video
-   https://github.com/TSQAteam/Security-Testing-SQL-Inject-Me/blob/master/video/Run_video.mp4
+    https://github.com/TSQAteam/Security-Testing-SQL-Inject-Me/blob/master/video/demo_video.mp4
    
    
    # Note:
