@@ -1,4 +1,4 @@
-# Security-Testing-SQL-Inject-Me
+# Security Testing Using SQL Inject Me
 
 - SQL Inject-Me is Firefox Extension used to test for SQL Injection vulnerabilities.
 - This vulnerabilites can cause a lot of damage to a web application. 
