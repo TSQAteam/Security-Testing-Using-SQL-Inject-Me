@@ -45,6 +45,12 @@ For you to start with SQL Inject Me, Just go to your Mozilla Firefox browser and
    -  In Sql injection settings  - It will list all the queries inject on the form. Here we can add / Remove based on our req.
    
    
+   # Demo Video:
+   
+   Check here for demo video
+   https://github.com/TSQAteam/Security-Testing-SQL-Inject-Me/blob/master/video/Run_video.mp4
+   
+   
    # Note:
    - It will not support current firefox version, Now I have used 56.0.1
    - Before performing this testing, Can take Db backup . Since it affects the data in db, large data gets inserted.
