@@ -3,6 +3,14 @@
 - A malicious user can possibly view records, delete records, drop tables or gain access to your server. 
 - SQL Inject-Me is Firefox Extension used to test for SQL Injection vulnerabilities.
 
+# How it works?
+ - The tool works by submitting your HTML forms and substituting the form value with strings that are representative of an SQL Injection attack.
+
+ - The tool works by sending database escape strings through the form fields. It then looks for database error messages that are output into the rendered HTML of the page.
+
+ - The tool does not attempting to compromise the security of the given system. It looks for possible entry points for an attack against the system.
+
+
 # How To Start With SQL Inject Me
 For you to start with SQL Inject Me, Just go to your Mozilla Firefox browser and search the SQL   Inject Me addon on google.
    Get add on from here
