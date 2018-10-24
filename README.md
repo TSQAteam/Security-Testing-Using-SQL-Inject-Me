@@ -1,8 +1,8 @@
 # Security-Testing-SQL-Inject-Me
-- SQL Injection vulnerabilites can cause a lot of damage to a web application. 
-- A malicious user can possibly view records, delete records, drop tables or gain access to your server. 
 - SQL Inject-Me is Firefox Extension used to test for SQL Injection vulnerabilities.
-
+- This vulnerabilites can cause a lot of damage to a web application. 
+- A malicious user can possibly view records, delete records, drop tables or gain access to your server. 
+- 
 # How it works?
  - The tool works by submitting your HTML forms and substituting the form value with strings that are representative of an SQL Injection attack.
 
