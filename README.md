@@ -14,6 +14,7 @@ For you to start with SQL Inject Me, Just go to your Mozilla Firefox browser and
    - Once the installation was done, message at the top left part of the page will appear to Restart the browser. Click the Restart Now  button.
    
    
+   
    Click  the Tools > SQL Inject Me > Open
    
    ![Screenshot of repository size on GitHub](https://github.com/TSQAteam/Security-Testing-SQL-Inject-Me/blob/master/images/2.png)
@@ -24,15 +25,18 @@ For you to start with SQL Inject Me, Just go to your Mozilla Firefox browser and
    - Select the available scripts on the dropdown lists that you prefer. 
    - Before executing the test, check the checkbox beside the dropdown list. Once you are done, click the Execute button at the top part to execute the test.
    
+   
   ![Screenshot of repository size on GitHub](https://github.com/TSQAteam/Security-Testing-SQL-Inject-Me/blob/master/images/3.png)
 
-   The test scripts are currently running. Once all the scripts were done executing, a new tab will appear to display the results of the test if the website has SQL vulnerability.
+   - The test scripts are currently running. Once all the scripts were done executing, a new tab will appear to display the results of the test if the website has SQL vulnerability.
    
   ![Screenshot of repository size on GitHub](https://github.com/TSQAteam/Security-Testing-SQL-Inject-Me/blob/master/images/4.png)
+  
   
    - And that's it. SQL Injection is now easy. 
    - A new tab will display the result of testing if the website you're testing is vulnerable to sql injection. 
    - It contain number of Failures, Warnings and Passes.
+  
   
    ![Screenshot of repository size on GitHub](https://github.com/TSQAteam/Security-Testing-SQL-Inject-Me/blob/master/images/5.png)
    
