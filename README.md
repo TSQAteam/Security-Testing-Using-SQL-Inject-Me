@@ -33,9 +33,11 @@ For you to start with SQL Inject Me, Just go to your Mozilla Firefox browser and
   ![Screenshot of repository size on GitHub](https://github.com/TSQAteam/Security-Testing-SQL-Inject-Me/blob/master/images/4.png)
   
   
+  
    - And that's it. SQL Injection is now easy. 
    - A new tab will display the result of testing if the website you're testing is vulnerable to sql injection. 
    - It contain number of Failures, Warnings and Passes.
+  
   
   
    ![Screenshot of repository size on GitHub](https://github.com/TSQAteam/Security-Testing-SQL-Inject-Me/blob/master/images/5.png)
